@@ -12,7 +12,7 @@ int main () {
             break;
 
         case 1:
-            cout<<(a*b);
+            cout<<(a*a);
             break;
 
         case 2:
